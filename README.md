@@ -77,6 +77,13 @@ Project2Poo/
 ├── Main.java
 └── isla.ser (opcional, generado si SAVE_STATE=true)
 
+├── scr/
+│   ├── Animal.java
+│   ├── Herbivoro.java
+│   ├── Carnivoro.java
+│   └── Species.java
+
+
 ├── src/
 
 │ ├── Alfabeto.java
@@ -84,12 +91,6 @@ Project2Poo/
 │ └── CifradoCesar1.java
 
 │ └── Main.java
-
-├── salida.txt
-
-├── salida2.txt
-
-├── README.md
 
 🚀 Mejoras opcionales implementadas
 Persistencia opcional del estado (SAVE_STATE).

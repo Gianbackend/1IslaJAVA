@@ -60,7 +60,9 @@ Editar
 ...
 
 📊 Estadísticas Iniciales: 🐃:2 🐻:2 🐎:6 🦌:8 🐗:3 🐑:8 🐐:8 🐺:10 🐍:5 🦊:6 🦅:3 🐇:30 🦆:8 🐁:20 🐛:30 🌿:22
+
 📂 Estructura del proyecto
+
 ├── Project2Poo/
 
 │   ├── Animal.java

@@ -30,7 +30,7 @@ Algunos parámetros que puedes ajustar:
 - `INITIAL_COUNTS`: número inicial de cada especie.
 - `LITTER_SIZE`: número de crías por reproducción.
 - `STOP_WHEN_NO_ANIMALS`: detener simulación cuando no queden animales.
-- `SAVE_STATE`: guardar y cargar estado desde `isla.ser`.
+- `SAVE_STATE`: guardar y cargar estado desde `isla.ser` cuando requiera retomar un estado guardado como persistencia.
 
 ## ▶️ Ejecución
 

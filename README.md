@@ -61,23 +61,7 @@ Editar
 
 📊 Estadísticas Iniciales: 🐃:2 🐻:2 🐎:6 🦌:8 🐗:3 🐑:8 🐐:8 🐺:10 🐍:5 🦊:6 🦅:3 🐇:30 🦆:8 🐁:20 🐛:30 🌿:22
 📂 Estructura del proyecto
-Project2Poo/
-├── Animal.java
-├── Herbivoro.java
-├── Carnivoro.java
-├── Species.java
-├── Lobo.java
-├── Conejo.java
-├── Oruga.java
-├── ... (resto de especies)
-├── Plant.java
-├── Cell.java
-├── PredationTable.java
-├── Config.java
-├── Main.java
-└── isla.ser (opcional, generado si SAVE_STATE=true)
-
-├── scr/
+├── Project2Poo/
 
 │   ├── Animal.java
 
@@ -85,15 +69,50 @@ Project2Poo/
 
 │   ├── Carnivoro.java
 
+│   ├── Species.java
 
+│   ├── Lobo.java
 
-├── src/
+│   ├── Boa.java
 
-│ ├── Alfabeto.java
+│   ├── Zorro.java
 
-│ └── CifradoCesar1.java
+│   ├── Oso.java
 
-│ └── Main.java
+│   ├── Aguila.java
+
+│   ├── Caballo.java
+
+│   ├── Ciervo.java
+
+│   ├── Conejo.java
+
+│   ├── Raton.java
+
+│   ├── Cabra.java
+
+│   ├── Oveja.java
+
+│   ├── Jabali.java
+
+│   ├── Bufalo.java
+
+│   ├── Pato.java
+
+│   ├── Oruga.java
+
+│   ├── Plant.java
+
+│   ├── Cell.java
+
+│   ├── PredationTable.java
+
+│   ├── Config.java
+
+│   ├── Main.java
+
+│   └── isla.ser (opcional, generado si SAVE_STATE=true)
+
 
 🚀 Mejoras opcionales implementadas
 Persistencia opcional del estado (SAVE_STATE).

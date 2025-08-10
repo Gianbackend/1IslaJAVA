@@ -1,6 +1,6 @@
 # 🏝️ Simulador de Isla en Java
 
-Este proyecto es un **simulador de ecosistema insular** desarrollado en Java, en el que distintas especies de animales y plantas interactúan en un entorno bidimensional.  
+Este proyecto es un *simulador de ecosistema* desarrollado en Java, en el que distintas especies de animales y plantas interactúan en un entorno bidimensional.  
 Los animales se mueven, comen, se reproducen, mueren y pueden migrar según configuraciones predefinidas.
 
 ## 📌 Características principales
@@ -63,9 +63,7 @@ Editar
 📂 Estructura del proyecto
 Project2Poo/
 ├── Animal.java
-
 ├── Herbivoro.java
-
 ├── Carnivoro.java
 ├── Species.java
 ├── Lobo.java
@@ -78,6 +76,7 @@ Project2Poo/
 ├── Config.java
 ├── Main.java
 └── isla.ser (opcional, generado si SAVE_STATE=true)
+
 🚀 Mejoras opcionales implementadas
 Persistencia opcional del estado (SAVE_STATE).
 

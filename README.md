@@ -78,8 +78,11 @@ Project2Poo/
 └── isla.ser (opcional, generado si SAVE_STATE=true)
 
 ├── scr/
+
 │   ├── Animal.java
+
 │   ├── Herbivoro.java
+
 │   ├── Carnivoro.java
 │   └── Species.java
 

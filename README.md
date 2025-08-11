@@ -1,7 +1,6 @@
 # 🏝️ Simulador de Isla en Java
 
-Este proyecto es un *simulador de ecosistema* desarrollado en Java, en el que distintas especies de animales y plantas interactúan en un entorno bidimensional.  
-Los animales se mueven, comen, se reproducen, mueren y pueden migrar (o aparecer) según configuraciones predefinidas.
+Este proyecto es un *simulador de ecosistema* desarrollado en Java, en el que distintas especies de animales y plantas interactúan en un entorno bidimensional. Los animales se mueven, comen, se reproducen, mueren y pueden migrar (o aparecer) según configuraciones predefinidas.
 Se favorece la migración de herbívoros para mantener el equilibrio ecológico. Ejemplos de probabilidades:
 - Oruga: 5%
 - Conejo: 2%

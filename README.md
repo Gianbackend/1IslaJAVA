@@ -137,13 +137,13 @@ Editar
 📈 Posibles mejoras futuras
 Hambre modelada según kg de alimento necesarios.
 
-Depredación parcial.
+*Depredación parcial.
 
-Climas/estaciones que afecten la regeneración.
+*Climas/estaciones que afecten la regeneración.
 
-Migración estacional.
+*Migración estacional.
 
-Interfaz gráfica.
+*Interfaz gráfica.
 
 📜 Licencia
 Este proyecto se distribuye bajo la licencia propia. Puedes usarlo y modificarlo libremente.

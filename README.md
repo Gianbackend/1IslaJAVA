@@ -1,7 +1,14 @@
 # 🏝️ Simulador de Isla en Java
 
 Este proyecto es un *simulador de ecosistema* desarrollado en Java, en el que distintas especies de animales y plantas interactúan en un entorno bidimensional.  
-Los animales se mueven, comen, se reproducen, mueren y pueden migrar según configuraciones predefinidas.
+Los animales se mueven, comen, se reproducen, mueren y pueden migrar (o aparecer) según configuraciones predefinidas.
+Se favorece la migración de herbívoros para mantener el equilibrio ecológico. Ejemplos de probabilidades:
+- Oruga: 5%
+- Conejo: 2%
+- Lobo: 0.1%
+- Águila, Boa, Oso: 0%
+La regeneración de plantas ocurre con un 5% por celda cada turno.
+
 
 ## 📌 Características principales
 
@@ -45,6 +52,7 @@ Copiar
 Editar
 javac Project2Poo/*.java
 java Project2Poo.Main
+
 Durante la simulación verás:
 
 Mapa con contenido de cada celda ([🐇🌿]).
@@ -117,15 +125,15 @@ Editar
 
 
 🚀 Mejoras opcionales implementadas
-Persistencia opcional del estado (SAVE_STATE).
+*Persistencia opcional del estado (SAVE_STATE).
 
-Migración configurable por especie.
+*Migración configurable por especie.
 
-Inicio desde estado guardado.
+*Inicio desde estado guardado.
 
-Turno 0 separado antes de iniciar la simulación.
+*Turno 0 separado antes de iniciar la simulación.
 
-Parámetros centralizados.
+*Parámetros centralizados.
 
 📈 Posibles mejoras futuras
 Hambre modelada según kg de alimento necesarios.

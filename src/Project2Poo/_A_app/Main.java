@@ -14,8 +14,6 @@ import java.util.concurrent.*;
 import Project2Poo.animals.carnivoros.*;
 import Project2Poo.animals.hervivoros.*;
 
-// Clase para inicializar la isla 5x5 con algunos animales
-
 public class Main {
     static final int R = Config.ROWS;
     static final int C = Config.COLS;

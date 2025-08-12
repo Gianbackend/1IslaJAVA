@@ -23,7 +23,7 @@ public final class Config {
     public static final double PLANT_REGEN_PROB = 0.05;
 
     // Migración (aparición aleatoria por celda y turno) por especie.
-    // Si una especie no está, se asume 0.
+
     private static final Map<Species, Double> MIGRATION_PROB = new EnumMap<>(Species.class);
     static {
         // Herbívoros (más alta)
@@ -73,7 +73,7 @@ public final class Config {
     }
 
     // ----- N° de crías por tipo (por reproducción) -----
-    // Si no está, se asume 1.
+
     private static final Map<Species, Integer> LITTER_SIZE = new EnumMap<>(Species.class);
     static {
         // valores ejemplo; ajusta a gusto
@@ -100,7 +100,6 @@ public final class Config {
     }
 
     // ----- Condición de parada -----
-    // true: detener cuando no queda ningún animal (todas las especies)
-    // false: puedes cambiar la lógica a “sin conejos ni lobos”, etc.
+
     public static final boolean STOP_WHEN_NO_ANIMALS = true;
 }

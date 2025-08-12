@@ -50,7 +50,7 @@ bash
 Copiar
 Editar
 javac Project2Poo/*.java
-java Project2Poo.Main
+java Project2Poo._A_app.Main
 
 Durante la simulación verás:
 

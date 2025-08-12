@@ -8,7 +8,6 @@ import Project2Poo.core.Animal;
 import Project2Poo.util.AnimalFactory;
 import Project2Poo.world.Cell;
 import Project2Poo.world.Plant;
-
 import java.io.*;
 import java.util.*;
 import java.util.concurrent.*;
